@@ -2,10 +2,10 @@ The AWS Resource Tracker is a utility script for monitoring and reporting the us
 
 Features:
 
-List AWS S3 buckets
-Describe AWS EC2 instances
-List AWS Lambda functions
-List AWS IAM users
+List AWS S3 buckets,
+Describe AWS EC2 instances,
+List AWS Lambda functions,
+List AWS IAM users,
 
 
 Usage:
