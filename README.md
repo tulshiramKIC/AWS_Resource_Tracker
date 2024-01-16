@@ -11,6 +11,7 @@ List AWS IAM users
 Usage:
 
 1.Ensure AWS CLI is installed and configured with the required credentials.
+
 2.Run the script to fetch information about AWS resources.
 ./aws_resource_tracker.sh
 
