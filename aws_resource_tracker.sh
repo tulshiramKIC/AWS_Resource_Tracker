@@ -9,9 +9,6 @@
 # This script will report the AWS resource usage
 ################################################
 
-
-#For below command just refer AWS CLI Reference Commands
-
 set -x
 
 # AWS S3
