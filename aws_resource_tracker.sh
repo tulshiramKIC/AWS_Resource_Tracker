@@ -1,14 +1,5 @@
 #!/bin/bash
 
-################################################
-# Author: Tulshiram
-# Date: 11th-Jan
-#
-# Version: v1
-#
-# This script will report the AWS resource usage
-################################################
-
 set -x
 
 # AWS S3
